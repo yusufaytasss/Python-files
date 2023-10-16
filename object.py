@@ -22,3 +22,4 @@ while(1):
     turtle.done
     
 print("Hello world")
+print("Selamlar")
