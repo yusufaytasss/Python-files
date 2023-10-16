@@ -20,3 +20,5 @@ while(1):
         break
     obj.hideturtle()
     turtle.done
+    
+print("Hello world")
