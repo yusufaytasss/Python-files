@@ -12,3 +12,4 @@ for i in range(150):
     t.forward(i*4)
     t.left(150)
     t.width(2)
+print("hello world")
